@@ -5,7 +5,8 @@
 body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-  color: #2e2f42;
+  color: #434455;
+  background-color: #ffffff;
 }
 .header-link .header-link:hover .header-link:focus {
   font-family: Raleway;
@@ -114,4 +115,8 @@ h3 {
 }
 .header-link-active-footer {
   color: #f4f4fd;
+}
+.specify-body {
+  color: #434455;
+  background-color: #ffffff;
 }
