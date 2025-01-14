@@ -1,0 +1,117 @@
+:root {
+  --primary-color: #4d5ae5;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: #2e2f42;
+}
+.header-link .header-link:hover .header-link:focus {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  color: #2e2f42;
+  background-color: #e7e9fc;
+}
+
+.header-link-active {
+  color: var(--primary-color);
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+}
+.header-link-active-st {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  color: #2e2f42;
+}
+
+.header-link-cotact {
+  color: #434455;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  background-color: #e7e9fc;
+}
+.primary-button {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+  background-color: #4d5ae5;
+  color: #ffffff;
+  cursor: pointer;
+}
+h1,
+h2,
+h3 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+}
+.medium-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+.bold-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+.header-1 {
+  font-family: Roboto;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  background-color: #2e2f42;
+}
+.background-feature {
+  background-color: #2e2f42;
+}
+.feature {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  background-color: #ffffff;
+}
+.section-feature {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
+  background-color: #ffffff;
+}
+.background-team {
+  background: #f4f4fd;
+}
+.footer {
+  background-color: #2e2f42;
+}
+.paragraph-footer {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+  background-color: #2e2f42;
+}
+.header-link-active-footer {
+  color: #f4f4fd;
+}
